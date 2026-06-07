@@ -2,16 +2,28 @@
 
 Collection of websites built by DuoTeam.
 
-## Projects
+## Liffey Blade Dublin
 
-### Business Website
-Modern responsive website.
+🔗 Live Demo:
+https://liffeybladedublin.netlify.app/
 
-### Restaurant Landing Page
-Fast and mobile-friendly design.
+Professional business website developed by DuoTeam.
 
-### Portfolio Website
-Professional online presence.
+### Features
+- Responsive Design
+- Mobile Friendly
+- Fast Loading
 
-### E-Commerce Store
-Modern online shopping experience.
+---
+
+## Modern Business Website
+
+🔗 Live Demo:
+https://fancy-profiterole-f1bd27.netlify.app/
+
+Modern responsive website developed by DuoTeam.
+
+### Features
+- Responsive Design
+- Modern Interface
+- Mobile Optimized
