@@ -3,6 +3,24 @@
 Collection of websites built by DuoTeam.
 
 ---
+---
+
+# Pinky Roll
+
+🔗 Live Demo: https://pinky-roll-demo.netlify.app/
+
+Luxury bakery website created for a modern cinnamon roll café brand with premium visuals and elegant user experience.
+
+### Features
+
+- Responsive Design
+- Premium Pink & White Theme
+- Interactive Product Showcase
+- Smooth Animations
+- Mobile Optimized
+- Modern UI/UX
+
+
 
 ## Aurora Grand Hotel
 
